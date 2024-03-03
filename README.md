@@ -1,5 +1,5 @@
 Cardiovascular Risk Prediction
-
+https://camo.githubusercontent.com/79b9ebf559ab32fe7c42f98b5592fc8170dae4a606579fce07137dea04536a6e/68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f313937333136393932323934313239393939392f413442354644343537354530464339353133413139343241463842333835333146434337343937412f3f696d773d36333726696d683d33353826696d613d66697426696d706f6c6963793d4c6574746572626f7826696d636f6c6f723d253233303030303030266c6574746572626f783d74727565
 This project aims to predict the 10-year risk of developing coronary heart disease (CHD) using the Cardiovascular Risk Prediction dataset. The dataset contains information on 3,390 individuals with 16 predictor variables and 1 target variable. The variables represent potential demographic, behavioral, and medical risk factors.
 
 Problem Statement
