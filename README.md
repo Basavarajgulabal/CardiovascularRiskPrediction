@@ -11,9 +11,12 @@ Cardiovascular Risk Prediction
 This project aims to predict the 10-year risk of developing coronary heart disease (CHD) using the Cardiovascular Risk Prediction dataset. The dataset contains information on 3,390 individuals with 16 predictor variables and 1 target variable. The variables represent potential demographic, behavioral, and medical risk factors.
 
 Problem Statement
+
 The classification goal is to predict whether a patient has a 10-year risk of CHD. Given the dataset's attributes and patient information, we need to develop a machine learning model that accurately predicts the likelihood of developing CHD.
 
 Summary
+
+
 The Cardiovascular Risk Prediction dataset provides detailed information on patients' demographics, behaviors, and medical risk factors. In this project, we tackled the challenge of predicting the 10-year risk of developing coronary heart disease by implementing a machine learning pipeline.
 
 Here is a summary of our approach and key steps:
